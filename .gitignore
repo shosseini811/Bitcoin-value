@@ -2,10 +2,14 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+kafka_example/
 # C extensions
-*.so
 
+*.mov
+
+
+*.so
+twilio_2FA_recovery_code.txt
 # Distribution / packaging
 .Python
 build/
